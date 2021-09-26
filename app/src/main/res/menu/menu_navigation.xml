@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_public"
+        android:title="@string/text_public"
+        android:icon="@drawable/ic_public" />
+
+    <item android:id="@+id/action_private"
+        android:title="@string/text_private"
+        android:icon="@drawable/ic_private_file"/>
+
+    <item android:id="@+id/action_profile"
+        android:title="@string/text_profile"
+        android:icon="@drawable/ic_profile" />
+
+</menu>

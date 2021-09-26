@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Magazine</string>
+    <string name="text_login_email">Email Id</string>
+    <string name="text_login_pasword">Password</string>
+    <string name="text_login_submit">Submit</string>
+    <string name="text_login_register">Not Registered Click Here?</string>
+    <string name="login_empty_fields">Please fill the fields</string>
+    <string name="text_reg_name">Name</string>
+    <string name="text_reg_email">Email</string>
+    <string name="text_reg_mobile">Mobile</string>
+    <string name="text_reg_password">Password</string>
+    <string name="text_reg_submit">Submit</string>
+    <string name="text_welcome_qrcode">Scam QR Code to Login</string>
+    <string name="text_welcome_registration">Registration</string>
+    <string name="text_reg_address">Address</string>
+    <string name="text_public">Public File</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_private">Private File</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_magazine_count">1 0f 2</string>
+</resources>
